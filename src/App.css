@@ -1,0 +1,16 @@
+footer {
+  margin-top: 20px;
+}
+
+.link {
+  color: #0000a3;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.container {
+  border: 1px solid #e8ebec;
+  border-radius: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
